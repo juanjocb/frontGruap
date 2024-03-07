@@ -1,0 +1,1 @@
+export const SERVER_URL = 'https://backgruap-1.onrender.com';
